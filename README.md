@@ -11,7 +11,7 @@
 
 <br/><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minoo-Kim&show_icons=true)
 
 <br><br>
 
