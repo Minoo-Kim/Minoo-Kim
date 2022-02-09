@@ -9,7 +9,7 @@
 - Granting everyone an opportunity to try out computer science
 - Exploring the infinitive intersections of computer science and other academic disciplines 
 <br/><br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minoo-Kim&layout=compact&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minoo-Kim&layout=compact&show_icons=true&langs_count=10)
 <br><br>
 
 
