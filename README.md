@@ -4,7 +4,7 @@
 <h3> I'm passionate about: </h3>
 
 - Applying computer science to healthcare, education, data analytics, biotech, biochemistry, and systems management
-- Closing gaps in research and implementation in the scientific community through novel outlooks and diverse perspectives  
+- Closing gaps in research and implementation within the scientific community through novel outlooks and diverse perspectives  
 - Creating people-centered solutions incorporating interactive features and intuitive user interfaces 
 - Granting everyone an opportunity to try out computer science
 - Exploring the infinitive intersections of computer science and other academic disciplines 
