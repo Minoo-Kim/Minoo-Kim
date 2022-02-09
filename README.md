@@ -8,12 +8,10 @@
 - Creating people-centered solutions incorporating interactive features and intuitive user interfaces 
 - Granting everyone an opportunity to try out computer science
 - Exploring what the world has to offer 
-
 <br/><br/>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minoo-Kim&layout=compact&show_icons=true)
-
 <br><br>
+
 
 
 
