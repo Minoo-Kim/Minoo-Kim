@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/Minoo-Kim/Minoo-Kim/main/intro.png)
+![alt text](https://raw.githubusercontent.com/Minoo-Kim/Minoo-Kim/main/bio.png)
 
 
 <h3> I'm passionate about: </h3>
