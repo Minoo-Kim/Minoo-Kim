@@ -11,14 +11,9 @@
 
 <br/><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minoo-Kim&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minoo-Kim&layout=compact&show_icons=true)
 
 <br><br>
 
 
 
-<hr>
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
-<hr>
